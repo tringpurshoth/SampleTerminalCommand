@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cbr150.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="KZU-Gu-8pK">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="2015-honda-civic-type-r-concept_100457027_l.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="KZU-Gu-8pK">
                                 <rect key="frame" x="0.0" y="176" width="375" height="277"/>
                             </imageView>
                         </subviews>
@@ -30,6 +30,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="cbr150.jpg" width="600" height="400"/>
+        <image name="2015-honda-civic-type-r-concept_100457027_l.jpg" width="1024" height="678"/>
     </resources>
 </document>

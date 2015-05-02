@@ -15,7 +15,7 @@
 		760556D71AF4936C00D909A9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 760556D61AF4936C00D909A9 /* Images.xcassets */; };
 		760556DA1AF4936C00D909A9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 760556D81AF4936C00D909A9 /* LaunchScreen.xib */; };
 		760556E61AF4936C00D909A9 /* SampleImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 760556E51AF4936C00D909A9 /* SampleImageTests.m */; };
-		760556F01AF493FE00D909A9 /* cbr150.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 760556EF1AF493FE00D909A9 /* cbr150.jpg */; };
+		760556F21AF49D7700D909A9 /* 2015-honda-civic-type-r-concept_100457027_l.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 760556F11AF49D7700D909A9 /* 2015-honda-civic-type-r-concept_100457027_l.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +43,7 @@
 		760556DF1AF4936C00D909A9 /* SampleImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleImageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		760556E41AF4936C00D909A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		760556E51AF4936C00D909A9 /* SampleImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleImageTests.m; sourceTree = "<group>"; };
-		760556EF1AF493FE00D909A9 /* cbr150.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cbr150.jpg; path = ../cbr150.jpg; sourceTree = "<group>"; };
+		760556F11AF49D7700D909A9 /* 2015-honda-civic-type-r-concept_100457027_l.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2015-honda-civic-type-r-concept_100457027_l.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				760556CA1AF4936C00D909A9 /* AppDelegate.h */,
-				760556EF1AF493FE00D909A9 /* cbr150.jpg */,
+				760556F11AF49D7700D909A9 /* 2015-honda-civic-type-r-concept_100457027_l.jpg */,
 				760556CB1AF4936C00D909A9 /* AppDelegate.m */,
 				760556D01AF4936C00D909A9 /* ViewController.h */,
 				760556D11AF4936C00D909A9 /* ViewController.m */,
@@ -206,8 +206,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				760556D51AF4936C00D909A9 /* Main.storyboard in Resources */,
+				760556F21AF49D7700D909A9 /* 2015-honda-civic-type-r-concept_100457027_l.jpg in Resources */,
 				760556DA1AF4936C00D909A9 /* LaunchScreen.xib in Resources */,
-				760556F01AF493FE00D909A9 /* cbr150.jpg in Resources */,
 				760556D71AF4936C00D909A9 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
